@@ -30,7 +30,7 @@ tr:nth-child(even) {
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td style="color:orange">Wipro</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
