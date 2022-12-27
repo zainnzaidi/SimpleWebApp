@@ -21,7 +21,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>WJRU Company Details</h2>
+<h2 style="color:blue">WJRU Company Details</h2>
 
 <table>
   <tr>
