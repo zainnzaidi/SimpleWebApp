@@ -101,10 +101,10 @@ h1{
         </header>
          <h1>This Is Home</h1>
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
-    <section id="pricing"><h1>This Is Pricing</h1></section>
-    <section id="contact"><h1>This Is Contact</h1></section>
+    <section id="about"><h1>This is the About Page</h1></section>
+    <section id="product"><h1>This is the Product Page</h1></section>
+    <section id="pricing"><h1>This is the Pricing Page</h1></section>
+    <section id="contact"><h1>This is the Contact Page</h1></section>
 
 </body>
 </html>
