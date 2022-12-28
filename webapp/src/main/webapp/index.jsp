@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <h1 style="margin-left:100px;color:orange">Shopping Website</h1>
+            
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -97,6 +97,7 @@ h1{
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
+		<span style="font-size:14px;margin-left:10px;color:orange">Shopping Website</span>
         </header>
          <h1>This Is Home</h1>
     </section>    
