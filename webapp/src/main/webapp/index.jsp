@@ -86,7 +86,7 @@ h1{
 </head>
 
 <body>
-
+    <h1 style="margin-left:100px;color:orange">Shopping Website</h1>
     <section id="home">
         <header>
             <a href="#"><img src="images/logo.png" alt=""></a>
@@ -99,8 +99,7 @@ h1{
             </ul>
         </header>
          <h1>This Is Home</h1>
-    </section>
-    <h1 style="margin-left:100px;color:orange">Shopping Website</h1>
+    </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
