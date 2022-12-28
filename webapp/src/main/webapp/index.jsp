@@ -86,10 +86,10 @@ h1{
 </head>
 
 <body>
-    <h1 style="margin-left:100px;color:orange">Shopping Website</h1>
+    
     <section id="home">
         <header>
-            <a href="#"><img src="images/logo.png" alt=""></a>
+            <h1 style="margin-left:100px;color:orange">Shopping Website</h1>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
