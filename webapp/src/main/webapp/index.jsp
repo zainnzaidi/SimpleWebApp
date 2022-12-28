@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>This Is Home</h1>
+         <h1>This is the Home Page</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Page</h1></section>
