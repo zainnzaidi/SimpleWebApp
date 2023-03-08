@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange"> Shopping Website !!</span>
+            <span style="font-size:32px;margin-right:10px;color:orange">Welcome to our Shopping Website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,9 +99,9 @@ h1{
             </ul>
 		
         </header>
-         <h1>This is the Home Page - New Change !</h1>
+         <h1>This is the Home Page</h1>
     </section>    
-    <section id="about"><h1>This is the About Page - Updated the page </h1></section>
+    <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
     <section id="pricing"><h1>This is the Pricing</h1></section>
     <section id="contact"><h1>This is the Contact Page!</h1></section>
